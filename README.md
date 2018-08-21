@@ -1,5 +1,6 @@
 # Google Hosts
 # add msg
+# check reset
 [![doodle]][doodle-story]
 
 [doodle]: https://www.google.com/logos/doodles/2018/lantern-festival-2018-6427136544997376-2x.jpg "元宵节快乐!"
